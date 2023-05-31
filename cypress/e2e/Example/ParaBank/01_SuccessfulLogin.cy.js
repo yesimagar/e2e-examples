@@ -11,5 +11,5 @@ describe('LoginTest-01', () => {
         // click the sign in button
         cy.get('[value]').click()
         
-    } )
+    })
 })
